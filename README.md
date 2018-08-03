@@ -31,6 +31,7 @@ The dataset can be downloaded [here](https://s3.amazonaws.com/primer-quicksilver
 or
 
 * has a wikipedia article and/or wikidata entry
+* has at least one scientific Wikidata occupation claim
 
 ### Data stats:
 
